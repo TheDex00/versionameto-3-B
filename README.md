@@ -1,5 +1,6 @@
 # gugugaga
-versionamento 3b
+mão na massa!
+
 git init
 git status
 git add .
