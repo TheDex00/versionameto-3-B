@@ -1,4 +1,4 @@
-# gugugaga
+# versionamento 3° B
 mão na massa!
 
 git init
