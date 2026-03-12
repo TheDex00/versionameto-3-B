@@ -1,4 +1,2 @@
 # versionamento 3° B
-
-git add .
-git commit -m "Adicionando arquivo inicial".
+repositorio de estudos para a disciplina de versionamento de codigo
